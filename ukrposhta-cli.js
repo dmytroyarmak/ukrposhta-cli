@@ -6,7 +6,7 @@ var humanize = require("underscore.string/humanize");
 var lpad = require("underscore.string/lpad");
 
 program
-  .version('0.1.0')
+  .version('0.1.1')
   .usage('[options] <barcode>')
   .option('-l, --language [name]', 'Use localization of API requests [uk]', 'uk')
   .option('-k, --key [user key]', 'Use user key to access API intead of test one')
