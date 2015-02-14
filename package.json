@@ -21,7 +21,7 @@
   "homepage": "https://github.com/dmytroyarmak/ukrposhta-cli",
   "dependencies": {
     "commander": "^2.6.0",
-    "ukrposhta-api": "^0.1.1",
+    "ukrposhta-api": "^0.1.2",
     "underscore.string": "^3.0.3"
   }
 }
